@@ -75,6 +75,6 @@ This project aims to develop an automated text summarization system using advanc
 
 ## Contributors
 
-- Ankita Jaiwar (@ankitajaiwar)
+- Ankita Singh (@ankitajaiwar)
 
 
