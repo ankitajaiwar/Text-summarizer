@@ -37,7 +37,8 @@ This project aims to develop an automated text summarization system using advanc
 
 3. Push the Docker image to Amazon ECR:
   ```bash
-  docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/text-summarization:latest
+     docker push <aws_account_id>.dkr.ecr.<region>.amazonaws.com/text-summarization:latest
+```
 
 
 ## Project Structure
